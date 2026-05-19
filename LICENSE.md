@@ -1,4 +1,4 @@
-# 
+# vip MEV arbitrage bot executor is the best MEV arbitrage bot executor with priority-gas-auctions and new-token-detection. Safe, reliable, and optimized for MEV, sniper, and
 
 
 
